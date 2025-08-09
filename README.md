@@ -1,5 +1,5 @@
 # Embedded_STM32F_DHT11
-STM32F103C8 interfacing DHT11 Embedded 
+STM32F446RE MCU NUCLEO-F446RE interfacing DHT11 Embedded 
 
 
 ## DHT11
